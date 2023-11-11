@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#hastags{
+  color:blue
+}
+.ftube{
+  width: 150px;
+  height: 60x;
+}
+.videos{
+ display:grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-gap:10px;
+}
